@@ -1,6 +1,6 @@
 token=NTAzODk3NjAxNzUwNDY2NTYx.DrSSBQ.SGc9qOkClUopKrg3p9nrI6Jdg7k
 owner=391306171278950401
 prefix=E2
-Lestining= ESCÁDA.
+game= ESCÁDA.
 stayinchannel=true
 songinstatus=true
