@@ -1,6 +1,6 @@
-token=NTAzODk3NjAxNzUwNDY2NTYx.DrSSBQ.SGc9qOkClUopKrg3p9nrI6Jdg7k
-owner=391306171278950401
-prefix=E2
-game= ESCÁDA.
+token=NDk3Mjc5MDY2MTIzMDEwMDY1.DsCQHA.etELqK8aUkmlUeaY5efnbLmIzVk
+owner=246353169121017857
+prefix=ha
+game= HAMADA
 stayinchannel=true
 songinstatus=true
